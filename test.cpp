@@ -7,5 +7,6 @@ int main(){
     cout<<"enter player kd:";
     cin>>x;
     s=(x>y)? "eligible to join": "not eligible to join";
+    cout<<"\n hello";
     cout<<s;
 }
